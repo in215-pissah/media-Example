@@ -1,4 +1,4 @@
-# Example of Media ueries
+# Example of Media Queries
 
 ## This is an awesome H2
 
