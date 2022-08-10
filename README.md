@@ -14,6 +14,6 @@ accusantium maxime illo? Ducimus accusamus velit enim facere laborum.
 Rem sit porro aliquid adipisci laborum illum atque non explicabo.
 Laboriosam ipsa aliquid accusantium recusandae nostrum.
 
-https://in-info-web4.informatics.iupui.edu/~pissah/SP22/Media_and_Responsive/
+https://in215-pissah.github.io/media-Example/
 
 https://web4link.com
